@@ -1,9 +1,7 @@
 theme: minima
 title: Marcus Harrison
 description: Code, comedy, and questionable puns. A developer's corner of the internet.
-author:
-  name: Marcus Harrison
-  email: ""
+author: Marcus Harrison
 url: "https://jfjrh2014.github.io"
 show_excerpts: true
 markdown: kramdown
