@@ -1,37 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Marcus Harrison</title>
-    <style>
-      body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; max-width: 680px; margin: 40px auto; padding: 0 20px; color: #333; line-height: 1.6; }
-      h1 { font-size: 2em; margin-bottom: 0.3em; }
-      p.subtitle { color: #666; margin-top: 0; font-style: italic; }
-      a { color: #0366d6; text-decoration: none; }
-      a:hover { text-decoration: underline; }
-      .post-list { list-style: none; padding: 0; }
-      .post-list li { margin-bottom: 1.5em; }
-      .post-date { color: #999; font-size: 0.9em; }
-      footer { margin-top: 3em; padding-top: 1em; border-top: 1px solid #eee; color: #999; font-size: 0.85em; }
-    </style>
-  </head>
-  <body>
-    <h1>Marcus Harrison</h1>
-    <p class="subtitle">Code, comedy, and questionable puns.</p>
-
-    <ul class="post-list">
-      {% for post in site.posts %}
-        <li>
-          <span class="post-date">{{ post.date | date: "%B %-d, %Y" }}</span>
-          <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-          <p>{{ post.excerpt }}</p>
-        </li>
-      {% endfor %}
-    </ul>
-
-    <footer>
-      &copy; {{ "now" | date: "%Y" }} Marcus Harrison. If we can't laugh, we can't code.
-    </footer>
-  </body>
-</html>
+---
+title: Marcus Harrison
+layout: home
+---

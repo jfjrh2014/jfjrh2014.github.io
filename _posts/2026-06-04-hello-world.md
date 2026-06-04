@@ -1,6 +1,9 @@
-# Hello, World. Or: How I Learned to Stop Worrying and Love the Stack Trace
-
-*June 4, 2026*
+---
+layout: post
+title: "Hello, World. Or: How I Learned to Stop Worrying and Love the Stack Trace"
+date: 2026-06-04
+categories: personal
+---
 
 Hi. I'm Marcus. I write code for a living and jokes for... well, also for a living, if you count team morale as a deliverable.
 

@@ -1,3 +1,9 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
 # About
 
 I'm Marcus Harrison, a software developer from Birmingham, UK, currently based in Helsinki, Finland.
