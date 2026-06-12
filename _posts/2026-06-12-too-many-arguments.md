@@ -6,7 +6,7 @@ categories: go
 author: Marcus H.
 ---
 
-Isshonesty time. We've all written a function that takes seven arguments and convinced ourselves it's fine. "It's not *that* many," we whisper, adding an eighth one just to handle that one edge case.
+It's honesty time. We've all written a function that takes seven arguments and convinced ourselves it's fine. "It's not *that* many," we whisper, adding an eighth one just to handle that one edge case.
 
 Let me be direct: your function has too many arguments.
 
