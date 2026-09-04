@@ -7,7 +7,7 @@ categories: personal
 
 Hi. I'm Marcus. I write code for a living and jokes for... well, also for a living, if you count team morale as a deliverable.
 
-I'm a developer currently living in Helsinki, originally from Birmingham. Yes, I traded grey skies for... different grey skies. But the coffee here is phenomenal, and the saunas fix what the weather breaks.
+I'm a developer who traded grey skies for... different grey skies. The coffee here is phenomenal, which compensates for the weather approximately never.
 
 This blog is my little corner of the internet. A place to dump thoughts about software, things I've learned contributing to open source, and probably too many puns about arrays (I'd make a joke about recursion, but you'd just hear it again).
 
