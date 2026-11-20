@@ -99,7 +99,7 @@ You do not have to spot these by eye. `go vet` ships a check called
 ```
 ./main.go:13:9: Inc passes lock by value: vt.Counter contains sync.Mutex
 ./main.go:33:11: assignment copies lock value to clone: sync.Mutex
-./main.go:55:9: range var c copies lock: vt.PCounter contains sync.Mutex
+./main.go:55:9: range var c copies lock: vt.Counter contains sync.Mutex
 ```
 
 All three caught, and it costs nothing. `go test` already runs a subset of vet
